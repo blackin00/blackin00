@@ -6,7 +6,7 @@
 
 ### Sobre mim:
 - Nome: Fernando.
-- Desenvolvedor Web | Aplicação
+- Desenvolvedor Back-end || Front-end
 - Idade: 15
 - Estudante.
 
